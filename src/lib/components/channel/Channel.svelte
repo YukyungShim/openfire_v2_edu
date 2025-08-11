@@ -195,7 +195,7 @@
 </script>
 
 <svelte:head>
-	<title>#{channel?.name ?? 'Channel'} • Open WebUI</title>
+	<title>#{channel?.name ?? 'Channel'} • OPEN TECH EDU</title>
 </svelte:head>
 
 <div
